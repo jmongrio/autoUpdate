@@ -7,6 +7,7 @@ We must first give the file permissions so that it can be run.
 This option must be checked.
 ![Captura de pantalla_2021-05-29_14-53-00](https://user-images.githubusercontent.com/63427621/120084843-c782e500-c090-11eb-9443-7e3e7fcb82a1.png)
 
+
 # Run
 You must write the next command in your terminal.
 
